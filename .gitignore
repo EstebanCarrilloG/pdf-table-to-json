@@ -1,0 +1,4 @@
+*.pdf
+!example.pdf
+*.json
+!example.json

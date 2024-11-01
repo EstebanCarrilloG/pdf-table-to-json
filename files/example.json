@@ -1,0 +1,28 @@
+[
+    {
+        "table_number": 1,
+        "table_data": [
+            {
+                "id_usuario": "1",
+                "nombre": "juan perez",
+                "correo": "juan.perez@email.com",
+                "contraseña": "hashed_password_1",
+                "fecha_registro": "2023-05-15 10:45:00"
+            },
+            {
+                "id_usuario": "2",
+                "nombre": "ana garcia",
+                "correo": "ana.garcia@email.com",
+                "contraseña": "hashed_password_2",
+                "fecha_registro": "2023-06-01 14:20:00"
+            },
+            {
+                "id_usuario": "3",
+                "nombre": "carlos lopez",
+                "correo": "carlos.lopez@email.com",
+                "contraseña": "hashed_password_3",
+                "fecha_registro": "2023-07-11 9:10:00"
+            }
+        ]
+    }
+]
